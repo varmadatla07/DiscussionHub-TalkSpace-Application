@@ -4,7 +4,7 @@
 
 ## Backend Tech Stack: JavaScript, Nodejs, Expressjs
 
-## DataBase: MongoDB
+## Database: MongoDB
 
 ## Authentication Middleware: JWT(JSON Web Token)
 
