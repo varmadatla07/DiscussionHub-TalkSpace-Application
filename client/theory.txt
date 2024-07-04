@@ -1,0 +1,5 @@
+npx create-react-app client
+npm install -D tailwindcss
+npx tailwindcss init
+npm i axios dotenv @reduxjs/toolkit react-redux react-hook-form react-icons react-router-dom
+npm i moment

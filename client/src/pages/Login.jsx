@@ -60,10 +60,10 @@ const Login = () => {
         {/* LEFT */}
         <div className='w-full lg:w-1/2 h-full p-10 2xl:px-20 flex flex-col justify-center '>
           <div className='w-full flex gap-2 items-center mb-6'>
-            <div className='p-2 bg-[#065ad8] rounded text-white'>
+            <div className='p-2 bg-[#89a3ca] rounded text-white'>
               <TbSocial />
             </div>
-            <span className='text-2xl text-[#065ad8] font-semibold'>
+            <span className='text-2xl text-[#525d6d] font-semibold'>
               Gitam Connect
             </span>
           </div>
@@ -170,7 +170,7 @@ const Login = () => {
 
           <div className='mt-16 text-center'>
             <p className='text-white text-base'>
-              Connect with friedns & have share for fun
+              Connect with friends & have share for fun
             </p>
             <span className='text-sm text-white/80'>
               Share memories with friends and the world.
