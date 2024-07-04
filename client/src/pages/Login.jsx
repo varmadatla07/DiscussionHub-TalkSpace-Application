@@ -11,6 +11,7 @@ import { BgImage } from "../assets";
 import { apiRequest } from "../utils";
 import { UserLogin } from "../redux/userSlice";
 
+// Application  starts with Login page and then navigates to the Home Page
 const Login = () => {
 
   const [errMsg, setErrMsg] = useState("");
